@@ -1,0 +1,17 @@
+# Only track lab, hw, and this file at the repository root.
+/*
+!/.gitignore
+!/lab/
+!/hw/
+
+# Local files and generated artifacts inside lab and hw.
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.grader/
+.pvnc/
+.provenance-manifest
+.unlocked.json
+.env
+.env.*
