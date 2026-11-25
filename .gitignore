@@ -3,6 +3,7 @@
 !/.gitignore
 !/lab/
 !/hw/
+!/proj/
 
 # Local files and generated artifacts inside lab and hw.
 .DS_Store
